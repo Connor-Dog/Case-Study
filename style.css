@@ -1,0 +1,65 @@
+body{
+    font-family: 'Qahiri', sans-serif;
+    background-color: aqua;
+}
+.header_div{
+background: blue;
+color: rgb(110, 10, 80);
+}
+.header_div h1{
+font-size: 50px;
+}
+#logo{
+width:70px ;
+height:70px ;
+}
+.main_div{
+background: rgb(194, 14, 211);
+padding: 10px;
+margin-top: 15px;
+border: 3px dashed whitesmoke;
+}
+.main_div label{
+    background: rgb(184, 110, 13);
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(18, 219, 68);
+    width: 300px;
+    }
+#camera,#result{
+border: royalblue 2px solid;
+width: 350px;
+height: 300px;
+box-shadow: 5px 5px 18px rgb(82, 219, 18);
+}
+.main_div button{
+width: 300px;
+font-size: 30px;
+border: 1px solid;
+box-shadow: 5px 5px 18px rgb(21, 139, 51);
+}
+    .header_div img{
+    width: 100px;
+    }
+    .footer_div h4{
+    background: skyblue;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: teal 5px 5px 18px;
+    }
+.footer_div img{
+width: 70px;
+}
+.copy_right_footer{
+position: fixed;
+color: teal;
+bottom: 0;
+width: 100%;
+background-color: whitesmoke;
+line-height: 3;
+text-align: center;
+}
+.footer_div{
+margin-bottom: 50px;
+}
